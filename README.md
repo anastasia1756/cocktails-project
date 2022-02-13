@@ -1,2 +1,1 @@
-# 15-cocktails
- 
+# cocktails-project
