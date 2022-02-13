@@ -1,7 +1,8 @@
 {
   "name": "reminder",
   "version": "0.1.0",
-  "homepage": "https://anastasia1756.github.io/coctails-project",
+  "homepage": "https://anastasia1756.github.io/cocktails-project",
+  "proxy": "http://localhost:5000",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
